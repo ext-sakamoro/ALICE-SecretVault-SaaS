@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_SECRETVAULT
+name: alice-secretvault
 description: ALICE SecretVault
 type: application
 version: 0.1.0
